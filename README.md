@@ -26,7 +26,7 @@ This project analyzes the relationship between Chicago public transit ridership 
 - Monthly PM2.5 Pollution Trend
 - Monthly CTA Ridership Trend
 - Ridership vs Pollution Scatter Plot
-- 
+  
 ## Key Findings
 The analysis explored the relationship between Chicago Transit Authority (CTA) ridership and PM2.5 air pollution levels.
 
