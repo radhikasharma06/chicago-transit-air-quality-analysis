@@ -26,6 +26,26 @@ This project analyzes the relationship between Chicago public transit ridership 
 - Monthly PM2.5 Pollution Trend
 - Monthly CTA Ridership Trend
 - Ridership vs Pollution Scatter Plot
+- 
+## Key Findings
+The analysis explored the relationship between Chicago Transit Authority (CTA) ridership and PM2.5 air pollution levels.
+
+A correlation analysis between monthly ridership and average PM2.5 levels produced the following result:
+
+Correlation coefficient ≈ 0.11
+
+This indicates a **very weak positive relationship** between transit ridership and air pollution levels.
+
+### Interpretation
+The results suggest that changes in CTA ridership alone do not strongly explain fluctuations in PM2.5 pollution levels in Chicago. Other factors likely play a larger role, including:
+
+- Weather conditions
+- Seasonal environmental changes
+- Vehicle traffic and congestion
+- Regional pollution events (e.g., wildfire smoke)
+
+### Conclusion
+While public transit usage affects urban mobility, the analysis indicates that CTA ridership levels are not a primary driver of PM2.5 air pollution variations in Chicago.
 
 ## Project Structure
 chicago-transit-air-quality
